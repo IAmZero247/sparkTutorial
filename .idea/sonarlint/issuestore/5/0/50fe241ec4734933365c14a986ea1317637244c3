@@ -1,9 +1,0 @@
-
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œ£ê³øÿÿÿÿ
-\
-java:S1128"FRemove this unused import 'org.apache.commons.collections.ArrayStack'.(¦ˆÀ€
-t
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(µË•éşÿÿÿÿ
-N	java:S106'"9Replace this use of System.out or System.err by a logger.(÷½Ø
-D
-java:S1481")Remove this unused "list" local variable.(óĞ¡Îüÿÿÿÿ

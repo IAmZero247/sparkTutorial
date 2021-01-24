@@ -26,8 +26,8 @@ public class SqlVsJavaPerformance {
         Dataset<Row> resultDf = dataset.select(col("level"),
 				                 date_format(col("datetime"), "MMMM").alias("month"),
 				                 date_format(col("datetime"), "M").alias("monthnum").cast(DataTypes.IntegerType) );
-		dataset = resultDf.groupBy("level","month","monthnum").count().as("total").orderBy("monthnum");
-		dataset = resultDf.drop("monthnum");
+		resultDf = resultDf.groupBy("level","month","monthnum").count().as("total").orderBy("monthnum");
+		resultDf = resultDf.drop("monthnum");
         */
 
 

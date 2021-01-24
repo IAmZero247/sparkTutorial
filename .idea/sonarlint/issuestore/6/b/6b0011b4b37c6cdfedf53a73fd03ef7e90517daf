@@ -1,8 +1,0 @@
-
-U	java:S106."9Replace this use of System.out or System.err by a logger.(¶ψ‚Θ8Υ–―ώς.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Γο…¦
-i
-java:S11926"GDefine a constant instead of duplicating this literal "points" 3 times.(υΠΛΊόÿÿÿÿ8€‚¶ώς.
-U	java:S106#"9Replace this use of System.out or System.err by a logger.(η¥ΐΒ8‘Π­ώς.
-U	java:S1061"9Replace this use of System.out or System.err by a logger.(„8Υ–―ώς.
-U	java:S1064"9Replace this use of System.out or System.err by a logger.(ϋΗΨ¬8€‚¶ώς.

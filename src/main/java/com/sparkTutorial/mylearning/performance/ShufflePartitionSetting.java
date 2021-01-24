@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class ShufflePartitionSetting {
     public static void main(String[] args) {
         Logger.getLogger("org.apache").setLevel(Level.WARN);
-        SparkSession spark = SparkSession.builder().appName("performance001").master("local[*]")
+        SparkSession spark = SparkSession.builder().appName("performance002").master("local[*]")
                 .config("spark.sql.warehouse" , "file:///c:tmp" ) //only for windows
                 .getOrCreate();
         spark.conf().set("spark.sql.shuffle.partitions", 10);
