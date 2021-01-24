@@ -1,0 +1,9 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ãï…¦
+X	java:S125,"<This block of commented-out lines of code should be removed.(’Áú’8Ç±äýò.
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(„œ8—ÔÆýò.
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(Öî¨ó8´‚Ûýò.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Õöß¹8ÒÖÃýò.
+v
+java:S1128"ZRemove this unused import 'com.sparkTutorial.mylearning.dataset.javabeans.NumberEngToFre'.(ÚóœT8•ÚÅýò.
+U	java:S106""9Replace this use of System.out or System.err by a logger.(¶ø‚È8Ùˆ¿ýò.

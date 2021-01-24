@@ -1,0 +1,6 @@
+
+K
+java:S1128
+")Remove this unused import 'scala.Tuple3'.(†å…Øýÿÿÿÿ8Šƒ«ýò.
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(¶ø‚È8¶¹¦ýò.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ãï…¦
